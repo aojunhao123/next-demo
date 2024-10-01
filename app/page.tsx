@@ -36,6 +36,7 @@ export default function Page() {
             alt="Screenshots of the dashboard project showing desktop version"
             width={1000}
             height={760}
+            priority
             className="hidden md:block"
           />
           <Image
